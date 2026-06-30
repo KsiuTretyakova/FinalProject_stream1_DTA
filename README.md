@@ -28,6 +28,7 @@ A dataset of ~55,000 e-commerce transactions (Kaggle). Key fields: gender, age g
 - **Recommendation.** Targeting the budget by age or gender is not justified. Stronger levers are product category, discount behaviour, purchase frequency and location. The discount policy also deserves a review: ~50% of all purchases use a discount, which pressures margin.
 
 ### Repository structure
+```
 ⊢ SQL
   ⊢ task1
     ⊢ task1.png
@@ -59,6 +60,7 @@ A dataset of ~55,000 e-commerce transactions (Kaggle). Key fields: gender, age g
   ⌞ requirements.txt
 |
 ⌞ README.md
+```
 
 ### How to run the notebooks
 ```bash
